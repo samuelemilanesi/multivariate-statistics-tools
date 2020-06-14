@@ -19,6 +19,8 @@
 #                di frequenza (quantili emipirici) in modo da osservare visivamente gli outliers.
 #                Restituisce poi d2.level con cui estrarre da X i dati non outlier.
 #              e.g.: d2.lvl=cut.ouliers(X); X.nooutliers = X[which(d2<d2.lvl[5])]
+#
+# !!! INDEX TO BE UPDATED
 #--------------------------------------------------------------------------------------
 
 
